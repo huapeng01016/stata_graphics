@@ -9,5 +9,5 @@ produces ![bars for each variables over category of foreign](./bar1.svg)
 
 but it's difficult to produce
 
-(bars for category of foreign grouped by each variable)[./bar1.svg]
+![bars for category of foreign grouped by each variable](./bar2.svg)
 
